@@ -9,6 +9,7 @@ This report uses a data set from GitHub's Tidy Tuesdays called "English Monarchs
 # Use With
 Tools: 
 R and R Studio
+Quarto
 R Libraries: 
 dplyr
 psych
