@@ -1,4 +1,4 @@
-# KODAQS 4 - Tools and Workflows
+# KODAQs 4 - Tools and Workflows Assignment Submission
 
 ## Overview
 This is an assignment submission for Module 4 - Tools and Workflows - of the KODAQs Course - to show the use of tools and workflows to make my research more reproducible.
